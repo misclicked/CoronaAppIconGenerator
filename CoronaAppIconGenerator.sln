@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29009.5
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CoronaAppIconGenerator", "CoronaAppIconGenerator.csproj", "{31FA0BE7-85F6-4A53-B03B-49BB976E772B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{31FA0BE7-85F6-4A53-B03B-49BB976E772B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{31FA0BE7-85F6-4A53-B03B-49BB976E772B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{31FA0BE7-85F6-4A53-B03B-49BB976E772B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{31FA0BE7-85F6-4A53-B03B-49BB976E772B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {35F2DB9A-82BA-42A3-BD09-E17A7B512217}
+	EndGlobalSection
+EndGlobal
