@@ -14,7 +14,8 @@
             <RowDefinition Height="1*"></RowDefinition>
             <RowDefinition Height="3*"></RowDefinition>
         </Grid.RowDefinitions>
-        <TextBlock Text="Drop Image File here" VerticalAlignment="Bottom" HorizontalAlignment="Center" FontSize="30" Height="38" Width="294"/>
-        <Button Content="Or browse..." Grid.Row="2" VerticalAlignment="Top" HorizontalAlignment="Center" FontSize="30" Height="38" Width="294" Click="Button_Click"/>
+        <TextBlock Text="Drop image file here" VerticalAlignment="Bottom" HorizontalAlignment="Center" FontSize="30" Height="38" Width="294"/>
+        <TextBlock Text="or" Grid.Row="1" VerticalAlignment="Center" HorizontalAlignment="Center" FontSize="28" Height="38"/>
+        <Button Content="Browse..." Grid.Row="2" VerticalAlignment="Top" HorizontalAlignment="Center" FontSize="30" Height="38" Width="294" Click="Button_Click"/>
     </Grid>
 </Window>
